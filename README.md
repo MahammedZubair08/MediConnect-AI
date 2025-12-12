@@ -56,10 +56,6 @@ MediConnect AI is a full-stack smart healthcare system designed to enable secure
 ### 🔹 Frontend User Experience
 - Developed responsive UI with Material UI and state-driven React components.
 
----
-
-## 📦 Installation & Setup
-
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/MahammedZubair08/mediconnect-ai.git
